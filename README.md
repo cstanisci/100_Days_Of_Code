@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 ### About Me 
-My name is Jane Nath from Portland, OR. I am graduating from General Assembly's Software Engineering Immersive Remote program next month (February 2020) and am excited to launch into the real world as a full stack developer.
+My name is CJ Stanisci from Denver, CO. I am graduating from General Assembly's Software Engineering Immersive Remote program next month (February 2020) and am excited to launch into the real world as a full stack developer.
 
 The purpose behind my 100 Days of Code is to firmly establish a habit of constant growth and learning as a developer, even after my formal coursework wraps up. I also want to populate my GitHub account with more projects, since the vast majority of my current coding work is located privately on GitHub Enterprise for General Assembly.
 
@@ -15,11 +15,7 @@ This hour will start with a coding challenge (e.g. from LeetCode, Codewars, Hack
 I'll update this repository each day with my reflections, project links, and code snippets.
 
 ### To Do List (in progress)
-* Codecademy Computer Science Career Path Course (Python, Data Structures, Command Line, Git)
-* HackerRank Interview Preparation Kit
-* Create an additional fullstack project for my portfolio utilizing React/Ruby on Rails/JavaScript/PostgreSQL (tbd)
-* Try all Top 100 Liked Questions on LeetCode
-* Review my frontend skills with Wes Bos's CSS Grid course and Codecademy's Web Development Career Path Course
+(https://docs.google.com/spreadsheets/d/1qli6CoUtugQ5zlCPlNQvslZT46wF0HpH-v5QqX3DVOk/edit#gid=0)
 
 ------
 ## PROGRESS SUMMARY:
