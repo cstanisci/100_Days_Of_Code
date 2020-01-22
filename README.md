@@ -14,7 +14,7 @@ I am committing to a *minimum* of 1 hour of coding per day, **in addition** to t
 This hour will start with a coding challenge (e.g. from LeetCode, Codewars, HackerRank) and then continue with online tutorials (Codecademy, freeCodeCamp.org) or working on personal projects.
 I'll update this repository each day with my reflections, project links, and code snippets.
 
-### To Do List (in progress)
+### To Do List
 (https://docs.google.com/spreadsheets/d/1qli6CoUtugQ5zlCPlNQvslZT46wF0HpH-v5QqX3DVOk/edit#gid=0)
 
 ------
